@@ -1,0 +1,10 @@
+.idea/
+_site/
+/**/DROP/
+/**/TEMP/
+/**/packages/
+/**/bin/
+/**/obj/
+BankingApplication/obj/
+BankingApplication/bin/
+*.DotSettings.user

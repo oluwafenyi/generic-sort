@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSort", "GenericSort\GenericSort.csproj", "{0E37A430-8D0B-4015-9C28-D94794C0CB7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSort.Test", "GenericSort.Test\GenericSort.Test.csproj", "{BF9FE933-E485-45EE-899D-9EBC5B74AC45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E37A430-8D0B-4015-9C28-D94794C0CB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E37A430-8D0B-4015-9C28-D94794C0CB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E37A430-8D0B-4015-9C28-D94794C0CB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E37A430-8D0B-4015-9C28-D94794C0CB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF9FE933-E485-45EE-899D-9EBC5B74AC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9FE933-E485-45EE-899D-9EBC5B74AC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9FE933-E485-45EE-899D-9EBC5B74AC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9FE933-E485-45EE-899D-9EBC5B74AC45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
