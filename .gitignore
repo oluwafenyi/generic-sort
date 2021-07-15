@@ -1,5 +1,6 @@
 .idea/
 _site/
+_site_pdf/
 /**/DROP/
 /**/TEMP/
 /**/packages/
